@@ -20,7 +20,7 @@ pip install -r requirements.txt
 ```
 
 ## Running the Code
-1. Close the repository
+1. Clone the repository
 2. Open the notebook using jupyter
 3. Run all Cells
 
